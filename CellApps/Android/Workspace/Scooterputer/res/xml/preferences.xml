@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+  Scooterputer 
+  GUI Module - Android Cell Phone Application
+
+  Copyright (C) 2012 - Tech Firma, LLC
+  
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Tech Firma, LLC
+  Cincinnati, OH  45242
+
+  info@techfirma.com
+
+  ****************************
+
+  Created Aug 9, 2010
+  Rev 1.0
+  Michael Bac
+ 
+  Update History:
+
+ -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:scooterputer="http://schemas.android.com/apk/res/particle.scooterputer">
+	<particle.scooterputer.BluetoothDevicePreference
+		android:key="@string/BluetoothDevice" android:defaultValue="@string/Scooterputer" android:summary="@string/BluetoothDeviceSummary" android:title="@string/BluetoothDevice"></particle.scooterputer.BluetoothDevicePreference>
+	<ListPreference android:title="@string/GPS"
+		android:entryValues="@array/GPSValues" android:entries="@array/GPSOptions"
+		android:summary="@string/GPSSummary" android:defaultValue="0"
+		android:key="@string/GPS"></ListPreference>
+	<ListPreference android:defaultValue="0"
+		android:entryValues="@array/DistanceUnitValues" android:entries="@array/DistanceUnitOptions"
+		android:title="@string/DistanceUnits" android:summary="@string/DistanceUnitSummary"
+		android:key="@string/DistanceUnits"></ListPreference>
+	<ListPreference android:title="@string/DistanceSensor"
+		android:entryValues="@array/DistanceSensorValues" android:entries="@array/DistanceSensorOptions"
+		android:defaultValue="0" android:summary="@string/DistanceSensorSummary"
+		android:key="@string/DistanceSensor"></ListPreference>
+	<particle.scooterputer.NumericPreference
+		android:summary="@string/WheelDiameterSummary" android:defaultValue="12"
+		android:title="@string/WheelDiameter" scooterputer:textLength="3"
+		android:key="@string/WheelDiameter"></particle.scooterputer.NumericPreference>
+	<ListPreference android:title="@string/MaxRPM"
+		android:entryValues="@array/MaxRPMValues" android:entries="@array/MaxRPMOptions"
+		android:summary="@string/MaxRPMSummary" android:defaultValue="0"
+		android:key="@string/MaxRPM"></ListPreference>
+	<ListPreference android:title="@string/IgnitionPPC"
+		android:entryValues="@array/IgnitionPPCValues" android:entries="@array/IgnitionPPCOptions"
+		android:summary="@string/IgnitionPPCSummary" android:defaultValue="1"
+		android:key="@string/IgnitionPPC"></ListPreference>
+	<ListPreference android:title="@string/TemperatureUnits"
+		android:entryValues="@array/TemperatureUnitValues" android:entries="@array/TemperatureUnitOptions"
+		android:summary="@string/TemperatureUnitSummary" android:defaultValue="0"
+		android:key="@string/TemperatureUnits"></ListPreference>
+	<ListPreference android:title="@string/TripOdometer"
+		android:summary="@string/TripOdometerSummary" android:entryValues="@array/TripOdometerValues"
+		android:entries="@array/TripOdometerOptions" android:defaultValue="0"
+		android:key="@string/TripOdometer"></ListPreference>
+	<ListPreference android:title="@string/TimeFormat"
+		android:entryValues="@array/TimeFormatValues" android:entries="@array/TimeFormatOptions"
+		android:defaultValue="0" android:summary="@string/TimeFormatSummary"
+		android:key="@string/TimeFormat"></ListPreference>
+	<particle.scooterputer.NumericPreference
+		android:title="@string/Odometer" android:key="@string/Odometer"
+		android:summary="@string/OdometerSummary" scooterputer:textLength="5"></particle.scooterputer.NumericPreference>
+	<particle.scooterputer.TimePreference
+		android:key="@string/Time" android:title="@string/Time"
+		android:summary="@string/TimeSummary"></particle.scooterputer.TimePreference>
+	<ListPreference android:title="@string/SetDefaults"
+		android:entryValues="@array/SetDefaultsValues" android:entries="@array/SetDefaultsOptions"
+		android:summary="@string/SetDefaultsSummary" android:defaultValue="0"
+		android:key="@string/SetDefaults"></ListPreference>
+	<PreferenceCategory android:key="@string/DebugSettings"
+		android:title="@string/DebugSettings"><Preference android:selectable="false" android:key="@string/Version" android:summary="@string/VersionSummary" android:defaultValue="Version" android:title="Version 1.0.3" /><CheckBoxPreference android:key="@string/EnableLogging"
+			android:title="@string/EnableLogging" android:summary="@string/EnableLoggingSummary"
+			android:defaultValue="@string/False"></CheckBoxPreference>
+		<EditTextPreference android:key="@string/LogDirectory"
+			android:summary="@string/LogDirectorySummary" android:dialogTitle="@string/LogDirectory"
+			android:title="@string/LogDirectory" android:dependency="@string/EnableLogging"
+			android:defaultValue="/mnt/sdcard/data/Scooterputer"></EditTextPreference>
+		
+		
+	</PreferenceCategory>
+</PreferenceScreen>

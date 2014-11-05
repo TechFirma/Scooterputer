@@ -1,0 +1,40 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1410497959520 403 b8e9eb55aee4e08d075c83d789e081e150042355 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$layout.class
+1410497958352 1824 6a5370616bdc0fd3f100de54ff31bea034b4fe3a C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\BluetoothDevicePreference.class
+1410497959079 740 039a3e7eef2357184a4f63b98a3fe5b19a8180d8 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\Speedometer$ResetMaxMPHTask.class
+1410497959523 400 5279eab0dba6ec2ada42716c97c8f1a3c5b1a035 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$menu.class
+1410497958937 1721 4cf6db40ef524435d5a3b8faac6c2b7f10eb30a5 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TimeDisplay.class
+1410497959539 762 bed6480859983b862ee3bf4c49a9f427089232fb C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R.class
+1410497959506 1109 d17289c921e08a18141a51385142903bc62f486a C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$array.class
+1410497959428 2627 6c05018a5ba93046856c7110ccfdfbc0059f65c5 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\utilities\DiagnosticLogger.class
+1410497959400 3462 8029e6004f067a4564ba05c323cfdcd4f414cdc3 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\StatusDisplay.class
+1410497959536 789 f269557b9a1f1713a10d482a7f4b4d71dfaf228e C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$styleable.class
+1410497958477 3026 1777794573ae5d598132192a5343e2e6e789aae4 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\BluetoothService$ConnectThread.class
+1410497959093 5783 88887a3efbd13c45a0dc1e0b0292673381ac0a23 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\Speedometer.class
+1410497959489 500 6f3d2af2b0c56822ee86b5f99f27f9b29ada30af C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\utilities\Size.class
+1410497959368 6913 97af7bdd202f99afde2f16f2cce947c3bd0c67d1 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\Tachometer.class
+1410497959514 697 21c99c4e7c0150f8c8009492bee215611c925e29 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$drawable.class
+1410497959509 510 b5b4cbfa4b537b48fb4a263352396457a73b6f15 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$attr.class
+1410497958896 1621 db8f68b3921e6f8245311d375fda98adfbaa345f C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TempGauge.class
+1410497959517 709 50080df7d0fa1f001a9bb9aae65ad9061b4042e9 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$id.class
+1410497959545 472 04bf2291ab3ad1f05c67ed3078bd1105b09a1e48 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\BuildConfig.class
+1410497959014 5029 85d8331ad5376ff186c6e920e5f928def95765bb C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\VoltageGauge.class
+1410497958622 2057 0203aa1a6c487d2d001ed2e3f96977920a3d1efb C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\NumericPreference.class
+1410497959528 1811 21ad585b3042454514e42aff37e4c06769b99f1c C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$string.class
+1410497958838 7381 74bc9071e29b35a6875e2258d4fd2beef754365c C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\ScooterData$3.class
+1410497959155 711 5bde8700e7fcc6a9a09c70517ece41364c579e5c C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TripGauge$ResetTripATask.class
+1410497959475 2590 4274b5c4cf9e43a961a812f9007415c2761a8ebf C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TimePreference.class
+1410497958822 2194 54d153ef26538e665b5e18e35d8778585caa9774 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\ScooterData$2.class
+1410497959159 727 d887671c5beb664cc3bf79052066d5f997ebdc1d C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TripGauge$ResetTripATimeTask.class
+1410497959484 1112 2caedf0f03eeac2aff0a8c14058bb92d92b8e020 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\utilities\PaintUtils.class
+1410497958488 3303 f686e0c45769b7f0238f6518208326075e0abdbb C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\BluetoothService$ConnectedThread.class
+1410497959173 4883 673570e34cb3a97c1b15bf25004914e98492fc59 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TripGauge.class
+1410497958599 4085 2fc9dd67d6ed818592a920d11c577b1ec79df52b C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\Compass.class
+1410497959162 711 b4b6690e958a9debfe8d5760332ecada7e8fe0f3 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\TripGauge$ResetTripBTask.class
+1410497959457 1226 49f8402640554fbd77a057706219374e975c03d0 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\Settings.class
+1410497959533 401 99eac938f2959650617ee7bf5a4a036c45823c12 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\R$xml.class
+1410497958863 14125 e02527eaf5fca4c46ff8f91b9924b6d45f2ceb52 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\ScooterData.class
+1410497958513 8253 94aa8c77be698dd1a94f41926a2e911724932d9f C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\BluetoothService.class
+1410497958817 3520 84dd38b0571cbcedf53850fbaa6ae946424031d3 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\classes\debug\particle\scooterputer\ScooterData$1.class

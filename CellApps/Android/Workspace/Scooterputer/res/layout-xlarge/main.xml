@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+  Scooterputer 
+  GUI Module - Android Cell Phone Application
+
+  Copyright (C) 2012 - Tech Firma, LLC
+  
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Tech Firma, LLC
+  Cincinnati, OH  45242
+
+  info@techfirma.com
+
+  ****************************
+
+  Created Aug 9, 2010
+  Rev 1.0
+  Michael Bac
+ 
+  Update History:
+
+ -->
+
+<RelativeLayout android:id="@+id/RelativeLayout01"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	android:padding="10dp" android:keepScreenOn="true"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:scooterputer="http://schemas.android.com/apk/res/particle.scooterputer">
+	<particle.scooterputer.TempGauge
+		android:id="@+id/TempGauge" android:layout_alignParentTop="true"
+		android:layout_alignParentLeft="true" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingBottom="40dp"
+		android:textColor="#00bfff" android:typeface="monospace"
+		android:gravity="right" android:textSize="48dp" android:text="000°F" />
+	<particle.scooterputer.TimeDisplay
+		android:id="@+id/TimeDisplay" android:layout_alignParentTop="true"
+		android:layout_toRightOf="@id/TempGauge" android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:paddingLeft="200dp"
+		android:textColor="#00bfff" android:typeface="monospace"
+		android:textStyle="bold" android:textSize="62dp" android:text="12:00:00" />
+	<particle.scooterputer.StatusDisplay
+		android:id="@+id/StatusDisplay" android:layout_alignParentTop="true"
+		android:layout_toRightOf="@id/TimeDisplay" android:layout_width="185dp"
+		android:layout_height="45dp" android:paddingLeft="100dp" 
+		android:paddingTop="15dp" />
+	<particle.scooterputer.VoltageGauge
+		android:id="@+id/VoltageGauge" android:layout_alignParentLeft="true"
+		android:layout_below="@id/TempGauge" android:layout_width="150dp"
+		android:layout_height="550dp" android:paddingTop="5dp"
+		android:textColor="#00bfff" android:typeface="monospace"
+		android:textSize="32dp" />
+	<particle.scooterputer.Speedometer
+		android:id="@+id/Speedometer" android:layout_below="@id/TimeDisplay"
+		android:layout_toRightOf="@id/VoltageGauge" android:layout_width="620dp"
+		android:layout_height="480dp" android:paddingTop="63dp"
+		android:paddingLeft="50dp" android:paddingRight="50dp"
+		android:textColor="#ffffff" android:typeface="monospace"
+		android:textSize="324dp" scooterputer:maxTextSize="72dp" />
+	<particle.scooterputer.Tachometer
+		android:id="@+id/Tachometer" android:layout_alignParentTop="true"
+		android:layout_alignParentRight="true" android:layout_toRightOf="@id/Speedometer"
+		android:layout_width="220dp" android:layout_height="fill_parent"
+		android:paddingLeft="0dp" android:paddingBottom="16dp"
+		android:textColor="#ffffff" android:typeface="normal"
+		android:textSize="72dp" scooterputer:meterTextSize="22dp"
+		scooterputer:valueOffset="-60" />
+	<particle.scooterputer.TripGauge
+		android:id="@+id/TripGauge" android:layout_alignParentLeft="true"
+		android:layout_below="@id/VoltageGauge" android:layout_width="740dp"
+		android:layout_height="wrap_content" android:paddingLeft="150dp"
+		android:paddingTop="25dp" android:textColor="#00bfff"
+		android:typeface="monospace" android:textSize="48dp" android:text="0" />
+	<particle.scooterputer.Compass
+		android:id="@+id/Compass" android:layout_toRightOf="@+id/TempGauge"
+		android:layout_above="@id/TripGauge" android:layout_width="250dp"
+		android:layout_height="wrap_content" android:paddingLeft="50dp"
+		android:paddingTop="100dp" android:textColor="#AA9000"
+		android:typeface="monospace" android:textSize="32dp" />
+</RelativeLayout>

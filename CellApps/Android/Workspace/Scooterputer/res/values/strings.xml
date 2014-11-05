@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+  Scooterputer 
+  GUI Module - Android Cell Phone Application
+
+  Copyright (C) 2012 - Tech Firma, LLC
+  
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+  Tech Firma, LLC
+  Cincinnati, OH  45242
+
+  info@techfirma.com
+
+  ****************************
+
+  Created Aug 9, 2010
+  Rev 1.0
+  Michael Bac
+ 
+  Update History:
+
+ -->
+
+<resources>
+	<string name="TimeFormatSummary">Format to use for displaying the time.</string>
+	<string name="TimeFormat">Time Format</string>
+	<string name="TripOdometerSummary">Trip odometer configuration.</string>
+	<string name="TripOdometer">Trip Odometer</string>
+	<string name="TemperatureUnitSummary">Unit of measurement used for temperature display.</string>
+	<string name="TemperatureUnits">Temperature Units</string>
+	<string name="IgnitionPPCSummary">Ignition Pulses Per Cycle used for RPM detection.</string>
+	<string name="IgnitionPPC">Ignition Pulses Per Cycle</string>
+	<string name="MaxRPMSummary">Maximimum RPM to use for the RPM Gauge.</string>
+	<string name="MaxRPM">Maximum RPM</string>
+	<string name="WheelDiameterSummary">Enter the wheel diameter from 0 to 999 in inches
+		(US) or mm (Metric).</string>
+	<string name="WheelDiameter">Wheel Diameter</string>
+	<string name="DistanceSensorSummary">Sensor to use for distance measurements.</string>
+	<string name="DistanceSensor">Distance Sensor</string>
+	<string name="DistanceUnitSummary">Units of measurement used for distance.</string>
+	<string name="DistanceUnits">Distance Units</string>
+	<string name="False">False</string>
+	<string name="True">True</string>
+	<string name="GPSSummary">GPS installed on sensor board?</string>
+	<string name="GPS">GPS Installed</string>
+	<string name="app_name">Scooterputer</string>
+	<string name="settings">Settings</string>
+	<string name="exit">Exit</string>
+	<string name="Odometer">Odometer</string>
+	<string name="OdometerSummary">Set the current value of the odometer on the sensor
+		board.</string>
+	<string name="Time">Time</string>
+	<string name="TimeSummary">Sets the current time on the sensor board.</string>
+	<string name="DebugSettings">Debug Settings</string>
+	<string name="EnableLogging">Enable Logging</string>
+	<string name="EnableLoggingSummary">Enable debug logging to a file.</string>
+	<string name="LogDirectory">Log Directory</string>
+	<string name="LogDirectorySummary">The directory to use for debug logging.</string>
+	<string name="SetDefaults">Set Defaults</string>
+	<string name="SetDefaultsSummary">Set all the settings to their default values</string>
+	<string name="Version">Version</string>
+	<string name="VersionSummary">Current Version</string><string name="BluetoothDevice">Bluetooth Device</string>
+	<string name="BluetoothDeviceSummary">Select the bluetooth device name use.</string>
+	<string name="Scooterputer">Scooterputer</string>
+	
+</resources>

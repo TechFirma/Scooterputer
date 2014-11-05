@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res" >
+            <file
+                name="ic_bluetooth_blue"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_bluetooth_blue.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_gray"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_bluetooth_gray.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_yellow"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_bluetooth_yellow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_gps_gray"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_gps_gray.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_gps_green"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_gps_green.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_gps_yellow"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_gps_yellow.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_scooterputer"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_launcher_scooterputer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-hdpi\ic_settings.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_blue"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_bluetooth_blue.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_gray"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_bluetooth_gray.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_yellow"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_bluetooth_yellow.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_gps_gray"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_gps_gray.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_gps_green"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_gps_green.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_gps_yellow"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_gps_yellow.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_scooterputer"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_launcher_scooterputer.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-ldpi\ic_settings.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_blue"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_bluetooth_blue.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_gray"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_bluetooth_gray.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_bluetooth_yellow"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_bluetooth_yellow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_gps_gray"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_gps_gray.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_gps_green"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_gps_green.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_gps_yellow"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_gps_yellow.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher_scooterputer"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_launcher_scooterputer.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_settings"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\drawable-mdpi\ic_settings.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\layout-xlarge\main.xml"
+                qualifiers="xlarge"
+                type="layout" />
+            <file
+                name="options"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\menu\options.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\values\arrays.xml"
+                qualifiers="" >
+                <string-array name="TemperatureUnitValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="SetDefaultsValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="TripOdometerValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="TripOdometerOptions" >
+                    <item>
+Trip A and Ride Time
+                    </item>
+                    <item>
+Trip A and Trip B
+                    </item>
+                </string-array>
+                <string-array name="IgnitionPPCOptions" >
+                    <item>
+0.5
+                    </item>
+                    <item>
+1.0
+                    </item>
+                    <item>
+2.0
+                    </item>
+                </string-array>
+                <string-array name="SetDefaultsOptions" >
+                    <item>
+No
+                    </item>
+                    <item>
+Yes
+                    </item>
+                </string-array>
+                <string-array name="DistanceUnitValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="DistanceSensorValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="MaxRPMValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="TimeFormatOptions" >
+                    <item>
+12 Hour
+                    </item>
+                    <item>
+24 Hour
+                    </item>
+                </string-array>
+                <string-array name="GPSValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="DistanceUnitOptions" >
+                    <item>
+US
+                    </item>
+                    <item>
+Metric
+                    </item>
+                </string-array>
+                <string-array name="TemperatureUnitOptions" >
+                    <item>
+Farenheit
+                    </item>
+                    <item>
+Celcius
+                    </item>
+                </string-array>
+                <string-array name="TimeFormatValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                </string-array>
+                <string-array name="DistanceSensorOptions" >
+                    <item>
+Magnetic
+                    </item>
+                    <item>
+GPS
+                    </item>
+                </string-array>
+                <string-array name="IgnitionPPCValues" >
+                    <item>
+0
+                    </item>
+                    <item>
+1
+                    </item>
+                    <item>
+2
+                    </item>
+                </string-array>
+                <string-array name="GPSOptions" >
+                    <item>
+No
+                    </item>
+                    <item>
+Yes
+                    </item>
+                </string-array>
+                <string-array name="MaxRPMOptions" >
+                    <item>
+10,000
+                    </item>
+                    <item>
+20,000
+                    </item>
+                </string-array>
+            </file>
+            <file
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\values\attrs.xml"
+                qualifiers="" >
+                <declare-styleable name="Speedometer" >
+                    <attr
+                        name="maxTextSize"
+                        format="dimension" />
+                </declare-styleable>
+                <declare-styleable name="NumericPreference" >
+                    <attr
+                        name="textLength"
+                        format="integer" />
+                </declare-styleable>
+                <declare-styleable name="Tachometer" >
+                    <attr
+                        name="valueOffset"
+                        format="integer" />
+                    <attr
+                        name="meterTextSize"
+                        format="dimension" />
+                </declare-styleable>
+            </file>
+            <file
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\values\strings.xml"
+                qualifiers="" >
+                <string name="DistanceUnitSummary" >Units of measurement used for distance.
+                </string>
+                <string name="Version" >Version
+                </string>
+                <string name="True" >True
+                </string>
+                <string name="BluetoothDeviceSummary" >Select the bluetooth device name use.
+                </string>
+                <string name="VersionSummary" >Current Version
+                </string>
+                <string name="SetDefaults" >Set Defaults
+                </string>
+                <string name="TemperatureUnitSummary" >Unit of measurement used for temperature display.
+                </string>
+                <string name="False" >False
+                </string>
+                <string name="BluetoothDevice" >Bluetooth Device
+                </string>
+                <string name="EnableLogging" >Enable Logging
+                </string>
+                <string name="Scooterputer" >Scooterputer
+                </string>
+                <string name="MaxRPM" >Maximum RPM
+                </string>
+                <string name="exit" >Exit
+                </string>
+                <string name="DebugSettings" >Debug Settings
+                </string>
+                <string name="TimeSummary" >Sets the current time on the sensor board.
+                </string>
+                <string name="Odometer" >Odometer
+                </string>
+                <string name="GPS" >GPS Installed
+                </string>
+                <string name="MaxRPMSummary" >Maximimum RPM to use for the RPM Gauge.
+                </string>
+                <string name="Time" >Time
+                </string>
+                <string name="SetDefaultsSummary" >Set all the settings to their default values
+                </string>
+                <string name="LogDirectorySummary" >The directory to use for debug logging.
+                </string>
+                <string name="WheelDiameter" >Wheel Diameter
+                </string>
+                <string name="DistanceSensorSummary" >Sensor to use for distance measurements.
+                </string>
+                <string name="LogDirectory" >Log Directory
+                </string>
+                <string name="OdometerSummary" >Set the current value of the odometer on the sensor
+		board.
+                </string>
+                <string name="DistanceUnits" >Distance Units
+                </string>
+                <string name="IgnitionPPC" >Ignition Pulses Per Cycle
+                </string>
+                <string name="TimeFormat" >Time Format
+                </string>
+                <string name="settings" >Settings
+                </string>
+                <string name="app_name" >Scooterputer
+                </string>
+                <string name="TimeFormatSummary" >Format to use for displaying the time.
+                </string>
+                <string name="GPSSummary" >GPS installed on sensor board?
+                </string>
+                <string name="WheelDiameterSummary" >Enter the wheel diameter from 0 to 999 in inches
+		(US) or mm (Metric).
+                </string>
+                <string name="IgnitionPPCSummary" >Ignition Pulses Per Cycle used for RPM detection.
+                </string>
+                <string name="DistanceSensor" >Distance Sensor
+                </string>
+                <string name="TemperatureUnits" >Temperature Units
+                </string>
+                <string name="TripOdometerSummary" >Trip odometer configuration.
+                </string>
+                <string name="EnableLoggingSummary" >Enable debug logging to a file.
+                </string>
+                <string name="TripOdometer" >Trip Odometer
+                </string>
+            </file>
+            <file
+                name="preferences"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\res\xml\preferences.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build\res\rs\release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build-types\release\res" />
+    </dataSet>
+
+</merger>

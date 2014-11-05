@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\assets" >
+            <file
+                name="Fonts/Digital.ttf"
+                path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\assets\Fonts\Digital.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

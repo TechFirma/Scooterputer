@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1345606005460 2373 7eba88b9451532e77fcf6bd8c316556f34b929d9 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\TimePreference.java
+1345606005475 5950 f1e2597bf1750a80b4224917bd18ec97f5d6d617 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\TripGauge.java
+1345606004586 16206 8a1984e70b42d2ec84b6c020e8f86f5537a9e19f C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\BluetoothService.java
+1345606004929 2101 b0e3ea92f1fde413fcce4b3f00812ad7c8095025 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\BluetoothDevicePreference.java
+1382505434593 4371 6661d5cd3598f673610953c8fb7b813037dfaf36 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\StatusDisplay.java
+1345606005304 2279 2da8e23992ffa2fd586bface650331810d16a37b C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\Settings.java
+1345606005397 1973 3e3170895141a32e884a39d820505fa654ba17a2 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\TempGauge.java
+1378178093742 19654 75fe41ae561fbd2590da0d268f4a801b2b263f6d C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\ScooterData.java
+1382502615463 5092 12d40b9459877ff27d452535555975810240a4c5 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\VoltageGauge.java
+1300419674519 2125 32a270b1207a45b96f3c5c4140438ebfa01d75b0 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\utilities\DiagnosticLogger.java
+1345606005241 2381 ddb0395ee78ff63b5304fae5d681c85515f8552b C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\NumericPreference.java
+1345606005335 5402 c0c6218a97a835e2a64d48248c2d3d6fad48214b C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\Speedometer.java
+1294559708479 251 e8e4a86db5fbe35cac305b5d03bb808dd3b2fb3a C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\utilities\Size.java
+1294559708483 560 1405928749de31cf23457ed7ecd8f54d94360ea4 C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\utilities\PaintUtils.java
+1345606005444 2122 d2e0c855f4b8267dfc5579b884b74f03ec50162a C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\TimeDisplay.java
+1345606004976 5029 88abcdb9135c4c1e64e4c08e5fe4a744d765f57a C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\Compass.java
+1345606005382 9929 545069fbc7486aaf2313a14bb8ad6acbdcc1723a C:\Work\Tech Firma\Scooterputer\CellApps\Android\Workspace\Scooterputer\src\particle\scooterputer\Tachometer.java
